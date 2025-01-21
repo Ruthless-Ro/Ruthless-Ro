@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruthless-Ro
+# About me.
 - 👀 I’m interested in expanding my knowledge in coding.
 - 🌱 I’m currently learning github, google cloud, and android aosp.
 - 💞️ I’m looking to collaborate on ...
